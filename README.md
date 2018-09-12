@@ -6,4 +6,4 @@ University: University College London
 Course: Msc Geographic Information Science
 Academic Year: 2017-2018
 
-Please note, in some instances, examplem code, rather than repetitive code has been supplied.
+Please note, in some instances, example code, rather than repetitive code has been supplied.
