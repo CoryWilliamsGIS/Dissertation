@@ -1,0 +1,74 @@
+#osmium time filter 
+#Scripts executed in linux command line via a guest Ubuntu OS, installed in Oracle VM VirtualBox
+#adapted from: https://docs.osmcode.org/osmium/latest/osmium-time-filter.html
+
+#KENYA (Will extract specifically Nairobi in DB)
+osmium time-filter -o kenya-2008.osm.pbf kenya-internal-history.osh.pbf 2008-01-01T00:00:00Z
+
+osmium time-filter -o kenya-2009.osm.pbf kenya-internal-history.osh.pbf 2009-01-01T00:00:00Z
+
+osmium time-filter -o kenya-2010osm.pbf kenya-internal-history.osh.pbf 2010-01-01T00:00:00Z
+
+osmium time-filter -o kenya-2011.osm.pbf kenya-internal-history.osh.pbf 2011-01-01T00:00:00Z
+
+osmium time-filter -o kenya-2012.osm.pbf kenya-internal-history.osh.pbf 2012-01-01T00:00:00Z
+
+osmium time-filter -o kenya-2013.osm.pbf kenya-internal-history.osh.pbf 2013-01-01T00:00:00Z
+
+osmium time-filter -o kenya-2014.osm.pbf kenya-internal-history.osh.pbf 2014-01-01T00:00:00Z
+
+osmium time-filter -o kenya-2015.osm.pbf kenya-internal-history.osh.pbf 2015-01-01T00:00:00Z
+
+osmium time-filter -o kenya-2016.osm.pbf kenya-internal-history.osh.pbf 2016-01-01T00:00:00Z
+
+osmium time-filter -o kenya-2017.osm.pbf kenya-internal-history.osh.pbf 2017-01-01T00:00:00Z
+
+osmium time-filter -o kenya-2018.osm.pbf kenya-internal-history.osh.pbf 2018-01-01T00:00:00Z
+
+
+#GREATER MANCHESTER
+osmium time-filter -o gm-2008.osm.pbf greater-manchester-internal-history.osh.pbf 2008-01-01T00:00:00Z
+
+osmium time-filter -o gm-2009.osm.pbf greater-manchester-internal-history.osh.pbf 2009-01-01T00:00:00Z
+
+osmium time-filter -o gm-2010osm.pbf greater-manchester-internal-history.osh.pbf 2010-01-01T00:00:00Z
+
+osmium time-filter -o gm-2011.osm.pbf greater-manchester-internal-history.osh.pbf 2011-01-01T00:00:00Z
+
+osmium time-filter -o gm-2012.osm.pbf greater-manchester-internal-history.osh.pbf 2012-01-01T00:00:00Z
+
+osmium time-filter -o gm-2013.osm.pbf greater-manchester-internal-history.osh.pbf 2013-01-01T00:00:00Z
+
+osmium time-filter -o gm-2014.osm.pbf greater-manchester-internal-history.osh.pbf 2014-01-01T00:00:00Z
+
+osmium time-filter -o gm-2015.osm.pbf greater-manchester-internal-history.osh.pbf 2015-01-01T00:00:00Z
+
+osmium time-filter -o gm-2016.osm.pbf greater-manchester-internal-history.osh.pbf 2016-01-01T00:00:00Z
+
+osmium time-filter -o gm-2017.osm.pbf greater-manchester-internal-history.osh.pbf 2017-01-01T00:00:00Z
+
+osmium time-filter -o gm-2018.osm.pbf greater-manchester-internal-history.osh.pbf 2018-01-01T00:00:00Z
+
+
+#ENGLAND
+osmium time-filter -o eng-2008.osm.pbf england-internal.osh.pbf 2008-01-01T00:00:00Z
+
+osmium time-filter -o eng-2009.osm.pbf england-internal.osh.pbf 2009-01-01T00:00:00Z
+
+osmium time-filter -o eng-2010osm.pbf england-internal.osh.pbf 2010-01-01T00:00:00Z
+
+osmium time-filter -o eng-2011.osm.pbf england-internal.osh.pbf 2011-01-01T00:00:00Z
+
+osmium time-filter -o eng-2012.osm.pbf england-internal.osh.pbf 2012-01-01T00:00:00Z
+
+osmium time-filter -o eng-2013.osm.pbf england-internal.osh.pbf 2013-01-01T00:00:00Z
+
+osmium time-filter -o eng-2014.osm.pbf england-internal.osh.pbf 2014-01-01T00:00:00Z
+
+osmium time-filter -o eng-2015.osm.pbf england-internal.osh.pbf 2015-01-01T00:00:00Z
+
+osmium time-filter -o eng-2016.osm.pbf england-internal.osh.pbf 2016-01-01T00:00:00Z
+
+osmium time-filter -o eng-2017.osm.pbf england-internal.osh.pbf 2017-01-01T00:00:00Z
+
+osmium time-filter -o eng-2018.osm.pbf england-internal.osh.pbf 2018-01-01T00:00:00Z

@@ -1,0 +1,136 @@
+#Time Analysis - OSM2PGSQL
+
+
+osm2pgsql --create --database user12db --prefix gm2008 --username user12 --password --host developer.cege.ucl.ac.uk --keep-coastlines --port 33029 --extra-attributes --multi-geometry --style C:\Users\coryw\Documents\osm2pgsql-bin\default.style C:\Users\coryw\Documents\gm-2008.osm.pbf
+
+osm2pgsql --create --database user12db --prefix gm2009 --username user12 --password --host developer.cege.ucl.ac.uk --keep-coastlines --port 33029 --extra-attributes --multi-geometry --style C:\Users\coryw\Documents\osm2pgsql-bin\default.style C:\Users\coryw\Documents\gm-2009.osm.pbf
+
+osm2pgsql --create --database user12db --prefix gm2010 --username user12 --password --host developer.cege.ucl.ac.uk --keep-coastlines --port 33029 --extra-attributes --multi-geometry --style C:\Users\coryw\Documents\osm2pgsql-bin\default.style C:\Users\coryw\Documents\gm-2010.osm.pbf
+
+osm2pgsql --create --database user12db --prefix gm2011 --username user12 --password --host developer.cege.ucl.ac.uk --keep-coastlines --port 33029 --extra-attributes --multi-geometry --style C:\Users\coryw\Documents\osm2pgsql-bin\default.style C:\Users\coryw\Documents\gm-2011.osm.pbf
+
+osm2pgsql --create --database user12db --prefix gm2012_bkup --username user12 --password --host developer.cege.ucl.ac.uk --keep-coastlines --port 33029 --extra-attributes --multi-geometry --style C:\Users\coryw\Documents\osm2pgsql-bin\default.style C:\Users\coryw\Documents\gm-2012.osm.pbf
+
+osm2pgsql --create --database user12db --prefix gm2013 --username user12 --password --host developer.cege.ucl.ac.uk --keep-coastlines --port 33029 --extra-attributes --multi-geometry --style C:\Users\coryw\Documents\osm2pgsql-bin\default.style C:\Users\coryw\Documents\gm-2013.osm.pbf
+
+osm2pgsql --create --database user12db --prefix gm2014 --username user12 --password --host developer.cege.ucl.ac.uk --keep-coastlines --port 33029 --extra-attributes --multi-geometry --style C:\Users\coryw\Documents\osm2pgsql-bin\default.style C:\Users\coryw\Documents\gm-2014.osm.pbf
+
+osm2pgsql --create --database user12db --prefix gm2015 --username user12 --password --host developer.cege.ucl.ac.uk --keep-coastlines --port 33029 --extra-attributes --multi-geometry --style C:\Users\coryw\Documents\osm2pgsql-bin\default.style C:\Users\coryw\Documents\gm-2015.osm.pbf
+
+osm2pgsql --create --database user12db --prefix gm2016 --username user12 --password --host developer.cege.ucl.ac.uk --keep-coastlines --port 33029 --extra-attributes --multi-geometry --style C:\Users\coryw\Documents\osm2pgsql-bin\default.style C:\Users\coryw\Documents\gm-2016.osm.pbf
+
+osm2pgsql --create --database user12db --prefix gm2017 --username user12 --password --host developer.cege.ucl.ac.uk --keep-coastlines --port 33029 --extra-attributes --multi-geometry --style C:\Users\coryw\Documents\osm2pgsql-bin\default.style C:\Users\coryw\Documents\gm-2017.osm.pbf
+
+osm2pgsql --create --database user12db --prefix gm2018 --username user12 --password --host developer.cege.ucl.ac.uk --keep-coastlines --port 33029 --extra-attributes --multi-geometry --style C:\Users\coryw\Documents\osm2pgsql-bin\default.style C:\Users\coryw\Documents\gm-2018.osm.pbf
+
+
+
+
+
+
+
+osm2pgsql --create --database user12db --prefix kenya2008 --username user12 --password --host developer.cege.ucl.ac.uk --keep-coastlines --port 33029 --extra-attributes --multi-geometry --style C:\Users\coryw\Documents\osm2pgsql-bin\default.style C:\Users\coryw\Documents\kenya-2008.osm.pbf
+
+osm2pgsql --create --database user12db --prefix kenya2009 --username user12 --password --host developer.cege.ucl.ac.uk --keep-coastlines --port 33029 --extra-attributes --multi-geometry --style C:\Users\coryw\Documents\osm2pgsql-bin\default.style C:\Users\coryw\Documents\kenya-2009.osm.pbf
+
+osm2pgsql --create --database user12db --prefix kenya2010 --username user12 --password --host developer.cege.ucl.ac.uk --keep-coastlines --port 33029 --extra-attributes --multi-geometry --style C:\Users\coryw\Documents\osm2pgsql-bin\default.style C:\Users\coryw\Documents\kenya-2010.osm.pbf
+
+osm2pgsql --create --database user12db --prefix kenya2011 --username user12 --password --host developer.cege.ucl.ac.uk --keep-coastlines --port 33029 --extra-attributes --multi-geometry --style C:\Users\coryw\Documents\osm2pgsql-bin\default.style C:\Users\coryw\Documents\kenya-2011.osm.pbf
+
+osm2pgsql --create --database user12db --prefix kenya2012 --username user12 --password --host developer.cege.ucl.ac.uk --keep-coastlines --port 33029 --extra-attributes --multi-geometry --style C:\Users\coryw\Documents\osm2pgsql-bin\default.style C:\Users\coryw\Documents\kenya-2012.osm.pbf
+
+osm2pgsql --create --database user12db --prefix kenya2013 --username user12 --password --host developer.cege.ucl.ac.uk --keep-coastlines --port 33029 --extra-attributes --multi-geometry --style C:\Users\coryw\Documents\osm2pgsql-bin\default.style C:\Users\coryw\Documents\kenya-2013.osm.pbf
+
+osm2pgsql --create --database user12db --prefix kenya2014 --username user12 --password --host developer.cege.ucl.ac.uk --keep-coastlines --port 33029 --extra-attributes --multi-geometry --style C:\Users\coryw\Documents\osm2pgsql-bin\default.style C:\Users\coryw\Documents\kenya-2014.osm.pbf
+
+osm2pgsql --create --database user12db --prefix kenya2015 --username user12 --password --host developer.cege.ucl.ac.uk --keep-coastlines --port 33029 --extra-attributes --multi-geometry --style C:\Users\coryw\Documents\osm2pgsql-bin\default.style C:\Users\coryw\Documents\kenya-2015.osm.pbf
+
+osm2pgsql --create --database user12db --prefix kenya2016 --username user12 --password --host developer.cege.ucl.ac.uk --keep-coastlines --port 33029 --extra-attributes --multi-geometry --style C:\Users\coryw\Documents\osm2pgsql-bin\default.style C:\Users\coryw\Documents\kenya-2016.osm.pbf
+
+osm2pgsql --create --database user12db --prefix kenya2017 --username user12 --password --host developer.cege.ucl.ac.uk --keep-coastlines --port 33029 --extra-attributes --multi-geometry --style C:\Users\coryw\Documents\osm2pgsql-bin\default.style C:\Users\coryw\Documents\kenya-2017.osm.pbf
+
+
+osm2pgsql --create --database user12db --prefix kenya2018 --username user12 --password --host developer.cege.ucl.ac.uk --keep-coastlines --port 33029 --extra-attributes --multi-geometry --style C:\Users\coryw\Documents\osm2pgsql-bin\default.style C:\Users\coryw\Documents\kenya-2018.osm.pbf
+
+
+
+
+
+
+osm2pgsql --create --database user12db --prefix eng_gm2008 --username user12 --password --host developer.cege.ucl.ac.uk --keep-coastlines --port 33029 --extra-attributes --multi-geometry --style C:\Users\coryw\Documents\osm2pgsql-bin\default.style C:\Users\coryw\Documents\eng-gm-2008.osm.o5m
+
+osm2pgsql --create --database user12db --prefix eng_gm2009 --username user12 --password --host developer.cege.ucl.ac.uk --keep-coastlines --port 33029 --extra-attributes --multi-geometry --style C:\Users\coryw\Documents\osm2pgsql-bin\default.style C:\Users\coryw\Documents\eng-gm-2009.osm.o5m
+
+
+osm2pgsql --create --database user12db --prefix eng_gm2010 --username user12 --password --host developer.cege.ucl.ac.uk --keep-coastlines --port 33029 --extra-attributes --multi-geometry --style C:\Users\coryw\Documents\osm2pgsql-bin\default.style C:\Users\coryw\Documents\eng-gm-2010.osm.o5m
+
+osm2pgsql --create --database user12db --prefix eng_gm2011_1 --username user12 --password --host developer.cege.ucl.ac.uk --keep-coastlines --port 33029 --extra-attributes --multi-geometry --style C:\Users\coryw\Documents\osm2pgsql-bin\default.style C:\Users\coryw\Documents\eng-gm-2011-1.osm.o5m
+
+osm2pgsql --create --database user12db --prefix eng_gm2011 --username user12 --password --host developer.cege.ucl.ac.uk --keep-coastlines --port 33029 --extra-attributes --multi-geometry --style C:\Users\coryw\Documents\osm2pgsql-bin\default.style C:\Users\coryw\Documents\eng-gm-2011-2.osm.o5m
+
+osm2pgsql --create --database user12db --prefix eng_gm2012 --username user12 --password --host developer.cege.ucl.ac.uk --keep-coastlines --port 33029 --extra-attributes --multi-geometry --style C:\Users\coryw\Documents\osm2pgsql-bin\default.style C:\Users\coryw\Documents\eng-gm-2012-1.osm.o5m
+
+osm2pgsql --create --database user12db --prefix eng_gm2012_2 --username user12 --password --host developer.cege.ucl.ac.uk --keep-coastlines --port 33029 --extra-attributes --multi-geometry --style C:\Users\coryw\Documents\osm2pgsql-bin\default.style C:\Users\coryw\Documents\eng-gm-2012-2.osm.o5m
+
+
+osm2pgsql --create --database user12db --prefix eng_gm2013 --username user12 --password --host developer.cege.ucl.ac.uk --keep-coastlines --port 33029 --extra-attributes --multi-geometry --style C:\Users\coryw\Documents\osm2pgsql-bin\default.style C:\Users\coryw\Documents\eng-gm-2013-1.osm.o5m
+
+
+osm2pgsql --create --database user12db --prefix eng_gm2013_2 --username user12 --password --host developer.cege.ucl.ac.uk --keep-coastlines --port 33029 --extra-attributes --multi-geometry --style C:\Users\coryw\Documents\osm2pgsql-bin\default.style C:\Users\coryw\Documents\eng-gm-2013-2.osm.o5m
+
+
+osm2pgsql --create --database user12db --prefix eng_gm2013_3 --username user12 --password --host developer.cege.ucl.ac.uk --keep-coastlines --port 33029 --extra-attributes --multi-geometry --style C:\Users\coryw\Documents\osm2pgsql-bin\default.style C:\Users\coryw\Documents\eng-gm-2013-3.osm.o5m
+
+
+osm2pgsql --create --database user12db --prefix eng_gm2014 --username user12 --password --host developer.cege.ucl.ac.uk --keep-coastlines --port 33029 --extra-attributes --multi-geometry --style C:\Users\coryw\Documents\osm2pgsql-bin\default.style C:\Users\coryw\Documents\eng-gm-2014-1.osm.o5m
+
+osm2pgsql --create --database user12db --prefix eng_gm2014_2 --username user12 --password --host developer.cege.ucl.ac.uk --keep-coastlines --port 33029 --extra-attributes --multi-geometry --style C:\Users\coryw\Documents\osm2pgsql-bin\default.style C:\Users\coryw\Documents\eng-gm-2014-2.osm.o5m
+
+osm2pgsql --create --database user12db --prefix eng_gm2014_3 --username user12 --password --host developer.cege.ucl.ac.uk --keep-coastlines --port 33029 --extra-attributes --multi-geometry --style C:\Users\coryw\Documents\osm2pgsql-bin\default.style C:\Users\coryw\Documents\eng-gm-2014-3.osm.o5m
+
+
+osm2pgsql --create --database user12db --prefix eng_gm2015 --username user12 --password --host developer.cege.ucl.ac.uk --keep-coastlines --port 33029 --extra-attributes --multi-geometry --style C:\Users\coryw\Documents\osm2pgsql-bin\default.style C:\Users\coryw\Documents\eng-gm-2015-1.osm.o5m
+
+osm2pgsql --create --database user12db --prefix eng_gm2015_2 --username user12 --password --host developer.cege.ucl.ac.uk --keep-coastlines --port 33029 --extra-attributes --multi-geometry --style C:\Users\coryw\Documents\osm2pgsql-bin\default.style C:\Users\coryw\Documents\eng-gm-2015-2.osm.o5m
+
+osm2pgsql --create --database user12db --prefix eng_gm2015_3 --username user12 --password --host developer.cege.ucl.ac.uk --keep-coastlines --port 33029 --extra-attributes --multi-geometry --style C:\Users\coryw\Documents\osm2pgsql-bin\default.style C:\Users\coryw\Documents\eng-gm-2015-3.osm.o5m
+
+osm2pgsql --create --database user12db --prefix eng_gm2015_4 --username user12 --password --host developer.cege.ucl.ac.uk --keep-coastlines --port 33029 --extra-attributes --multi-geometry --style C:\Users\coryw\Documents\osm2pgsql-bin\default.style C:\Users\coryw\Documents\eng-gm-2015-4.osm.o5m
+
+
+osm2pgsql --create --database user12db --prefix eng_gm2016_1 --username user12 --password --host developer.cege.ucl.ac.uk --keep-coastlines --port 33029 --extra-attributes --multi-geometry --style C:\Users\coryw\Documents\osm2pgsql-bin\default.style C:\Users\coryw\Documents\eng-gm-2016-1.osm.o5m
+
+osm2pgsql --create --database user12db --prefix eng_gm2016_2 --username user12 --password --host developer.cege.ucl.ac.uk --keep-coastlines --port 33029 --extra-attributes --multi-geometry --style C:\Users\coryw\Documents\osm2pgsql-bin\default.style C:\Users\coryw\Documents\eng-gm-2016-2.osm.o5m
+
+osm2pgsql --create --database user12db --prefix eng_gm2016_3 --username user12 --password --host developer.cege.ucl.ac.uk --keep-coastlines --port 33029 --extra-attributes --multi-geometry --style C:\Users\coryw\Documents\osm2pgsql-bin\default.style C:\Users\coryw\Documents\eng-gm-2016-3.osm.o5m
+
+osm2pgsql --create --database user12db --prefix eng_gm2016_4 --username user12 --password --host developer.cege.ucl.ac.uk --keep-coastlines --port 33029 --extra-attributes --multi-geometry --style C:\Users\coryw\Documents\osm2pgsql-bin\default.style C:\Users\coryw\Documents\eng-gm-2016-4.osm.o5m
+
+
+osm2pgsql --create --database user12db --prefix eng_gm2017_1 --username user12 --password --host developer.cege.ucl.ac.uk --keep-coastlines --port 33029 --extra-attributes --multi-geometry --style C:\Users\coryw\Documents\osm2pgsql-bin\default.style C:\Users\coryw\Documents\eng-gm-2017-1.osm.o5m
+
+osm2pgsql --create --database user12db --prefix eng_gm2017_3 --username user12 --password --host developer.cege.ucl.ac.uk --keep-coastlines --port 33029 --extra-attributes --multi-geometry --style C:\Users\coryw\Documents\osm2pgsql-bin\default.style C:\Users\coryw\Documents\eng-gm-2017-2.osm.o5m
+
+osm2pgsql --create --database user12db --prefix eng_gm2017_2 --username user12 --password --host developer.cege.ucl.ac.uk --keep-coastlines --port 33029 --extra-attributes --multi-geometry --style C:\Users\coryw\Documents\osm2pgsql-bin\default.style C:\Users\coryw\Documents\eng-gm-2017-3.osm.o5m
+
+osm2pgsql --create --database user12db --prefix eng_gm2017_4 --username user12 --password --host developer.cege.ucl.ac.uk --keep-coastlines --port 33029 --extra-attributes --multi-geometry --style C:\Users\coryw\Documents\osm2pgsql-bin\default.style C:\Users\coryw\Documents\eng-gm-2017-4.osm.o5m
+
+
+osm2pgsql --create --database user12db --prefix eng_gm2017_5 --username user12 --password --host developer.cege.ucl.ac.uk --keep-coastlines --port 33029 --extra-attributes --multi-geometry --style C:\Users\coryw\Documents\osm2pgsql-bin\default.style C:\Users\coryw\Documents\eng-gm-2017-5.osm.o5m
+
+
+osm2pgsql --create --database user12db --prefix eng_gm2018_1 --username user12 --password --host developer.cege.ucl.ac.uk --keep-coastlines --port 33029 --extra-attributes --multi-geometry --style C:\Users\coryw\Documents\osm2pgsql-bin\default.style C:\Users\coryw\Documents\eng-gm-2018-1.osm.o5m
+
+
+osm2pgsql --create --database user12db --prefix eng_gm2018_2 --username user12 --password --host developer.cege.ucl.ac.uk --keep-coastlines --port 33029 --extra-attributes --multi-geometry --style C:\Users\coryw\Documents\osm2pgsql-bin\default.style C:\Users\coryw\Documents\eng-gm-2018-2.osm.o5m
+
+
+osm2pgsql --create --database user12db --prefix eng_gm2018_3 --username user12 --password --host developer.cege.ucl.ac.uk --keep-coastlines --port 33029 --extra-attributes --multi-geometry --style C:\Users\coryw\Documents\osm2pgsql-bin\default.style C:\Users\coryw\Documents\eng-gm-2018-3.osm.o5m
+
+
+
+
+
+
+
+
